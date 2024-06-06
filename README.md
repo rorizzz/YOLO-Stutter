@@ -50,3 +50,4 @@ python generate_phn.py
 python generate_word.py
 ```
 
+## Citation
