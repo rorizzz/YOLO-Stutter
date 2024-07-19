@@ -34,13 +34,11 @@ We opensourced our inference code and checkpoints, here are the steps to perform
 
 1. Download [VITS pretrainde models](https://drive.google.com/drive/folders/1ksarh-cJf3F5eKJjLVWY0X1j1qsQqiS2), here we use `pretrained_ljs.pth`.
 
-2. Download [yolo-stutter-checkpoints](https://drive.google.com/drive/folders/1-iD0D3A5IKPrKGfvIr3age8tGVL_yKnL?usp=sharing).
+2. Download [yolo-stutter-checkpoints](https://drive.google.com/drive/folders/1-iD0D3A5IKPrKGfvIr3age8tGVL_yKnL?usp=sharing), create a folder named `saved_models`, and put all downloaded models into it.
 
-3. Create a folder named `saved_models`, and put all downloaded models into it.
+3. We also provide testing datasets for quick inference, you can download it [here](https://drive.google.com/drive/folders/1AXT6kK8IFKaxoymZxey9WUyfzE5iN43o?usp=sharing).
 
-4. We also provide testing datasets for quick inference, you can download it [here](https://drive.google.com/drive/folders/1AXT6kK8IFKaxoymZxey9WUyfzE5iN43o?usp=sharing).
-
-5. Run `yolo-stutter/etc/`
+5. Run `yolo-stutter/etc/inference.ipynb` to perform inference step by step.
 
 ## Dysfluency simulation
 We use [VITS](https://github.com/jaywalnut310/vits) as our TTS model.
