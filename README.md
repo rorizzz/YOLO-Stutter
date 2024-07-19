@@ -32,7 +32,7 @@ We opensourced our inference code and checkpoints, here are the steps to perform
 
 0. Clone the folder `yolo-stutter`
 
-1. Download [VITS pretrainde models](https://drive.google.com/drive/folders/1ksarh-cJf3F5eKJjLVWY0X1j1qsQqiS2), here we use `pretrained_ljs.pth`.
+1. Download [VITS pretrainde model](https://drive.google.com/drive/folders/1ksarh-cJf3F5eKJjLVWY0X1j1qsQqiS2), here we use `pretrained_ljs.pth`.
 
 2. Download [Yolo-Stutter-checkpoints](https://drive.google.com/drive/folders/1-iD0D3A5IKPrKGfvIr3age8tGVL_yKnL?usp=sharing), create a folder under `yolo-stutter`, named `saved_models`, and put all downloaded models into it.
 
