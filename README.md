@@ -70,3 +70,16 @@ python generate_word.py
 ```
 
 ## Citation
+
+If you find our paper helpful, please cite it.
+```sh
+@misc{zhou2024yolostutterendtoendregionwisespeech,
+      title={YOLO-Stutter: End-to-end Region-Wise Speech Dysfluency Detection}, 
+      author={Xuanru Zhou and Anshul Kashyap and Steve Li and Ayati Sharma and Brittany Morin and David Baquirin and Jet Vonk and Zoe Ezzes and Zachary Miller and Maria Luisa Gorno Tempini and Jiachen Lian and Gopala Krishna Anumanchipalli},
+      year={2024},
+      eprint={2408.15297},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2408.15297}, 
+}
+```
