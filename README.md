@@ -71,7 +71,7 @@ python generate_word.py
 
 ## Citation
 
-If you find our paper helpful, please cite it.
+If you find our paper helpful, please cite it by:
 ```sh
 @misc{zhou2024yolostutterendtoendregionwisespeech,
       title={YOLO-Stutter: End-to-end Region-Wise Speech Dysfluency Detection}, 
