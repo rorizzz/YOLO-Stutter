@@ -73,13 +73,12 @@ python generate_word.py
 
 If you find our paper helpful, please cite it by:
 ```sh
-@misc{zhou2024yolostutterendtoendregionwisespeech,
-      title={YOLO-Stutter: End-to-end Region-Wise Speech Dysfluency Detection}, 
-      author={Xuanru Zhou and Anshul Kashyap and Steve Li and Ayati Sharma and Brittany Morin and David Baquirin and Jet Vonk and Zoe Ezzes and Zachary Miller and Maria Luisa Gorno Tempini and Jiachen Lian and Gopala Krishna Anumanchipalli},
-      year={2024},
-      eprint={2408.15297},
-      archivePrefix={arXiv},
-      primaryClass={eess.AS},
-      url={https://arxiv.org/abs/2408.15297}, 
+@inproceedings{zhou24e_interspeech,
+  title     = {YOLO-Stutter: End-to-end Region-Wise Speech Dysfluency Detection},
+  author    = {Xuanru Zhou and Anshul Kashyap and Steve Li and Ayati Sharma and Brittany Morin and David Baquirin and Jet Vonk and Zoe Ezzes and Zachary Miller and Maria Tempini and Jiachen Lian and Gopala Anumanchipalli},
+  year      = {2024},
+  booktitle = {Interspeech 2024},
+  pages     = {937--941},
+  doi       = {10.21437/Interspeech.2024-1855},
 }
 ```
