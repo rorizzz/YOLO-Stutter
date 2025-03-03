@@ -42,6 +42,7 @@ We opensourced our inference code and checkpoints, here are the steps to perform
 
 ```sh
 cd yolo-stutter/monotonic_align
+mkdir monotonic_align
 python setup.py build_ext --inplace
 ```
 
