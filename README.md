@@ -59,6 +59,7 @@ We use [VITS](https://github.com/jaywalnut310/vits) as our TTS model.
 0. Build Monotonoic Alignment Search
 ```sh
 cd dysfluency_simulation/monotonic_align
+mkdir monotonic_align
 python setup.py build_ext --inplace
 ```
 3. Generate simulated speech
